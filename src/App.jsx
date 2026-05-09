@@ -421,7 +421,7 @@ export default function MothersDayInteractiveSite() {
 
       {/* Footer */}
       <div className="relative z-10 text-center py-8 text-gray-700 font-semibold text-lg">
-        Made with ❤️ for the most wonderful moms in the world.
+        Made with ❤️ for the most wonderful mom in the world.
       </div>
     </div>
   );
