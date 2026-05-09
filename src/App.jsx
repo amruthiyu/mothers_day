@@ -210,7 +210,7 @@ export default function MothersDayInteractiveSite() {
               desc: 'When all of us are together happiness blooms',
             },
             {
-              title: 'Back to home frpm college',
+              title: 'Back to home from college',
               year: '2021',
               img: img10,
               desc: 'The place where you are makes it home😍',
