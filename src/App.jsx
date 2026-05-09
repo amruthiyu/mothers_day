@@ -382,7 +382,10 @@ export default function MothersDayInteractiveSite() {
                     <br/><br/>
                     Thank you for being our safe place,
                     our happiness, and our forever home ✨
+
+
                   </p>
+
 
                   <div class="flex justify-center gap-3 mb-6 text-3xl">
                     ✨ 💖 🌸 👑 🌷
@@ -392,7 +395,7 @@ export default function MothersDayInteractiveSite() {
                     id="closeMagic"
                     class="bg-white text-rose-500 font-bold px-8 py-4 rounded-full shadow-2xl text-lg active:scale-95 transition"
                   >
-                    Love You Mom 💌
+                    PS: Love You Mom 💌 From Amaran, Amruthiyu and Sowparnika
                   </button>
                 </div>
               </div>
